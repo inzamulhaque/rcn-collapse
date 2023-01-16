@@ -1,0 +1,24 @@
+{
+  "name": "rcn-collapse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "src/Collapse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inzamulhaque/rcn-collapse"
+  },
+  "author": "MD Inzamul Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inzamulhaque/rcn-collapse/issues"
+  },
+  "homepage": "https://github.com/inzamulhaque/rcn-collapse#readme",
+  "dependencies": {
+    "next": "^13.1.2",
+    "react": "^18.2.0"
+  }
+}
